@@ -2,6 +2,7 @@
 Proje Özeti
 
 Amaç: Kullanıcıların yemek tarifleri eklemesine, aramasına ve değerlendirmesine olanak sağlayan bir uygulama geliştirmek.
+
 Teknik Detaylar
 
 Kullanılan Kütüphane: PyQt5
